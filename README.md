@@ -1,4 +1,4 @@
-# Escenario 4 - Análisis de Seguridad con Python / SebastianMedinaGarcia
+# Escenario 4 - Análisis de Seguridad con Python 
 
 ## 📋 Descripción
 
